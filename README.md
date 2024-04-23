@@ -4,5 +4,3 @@
 # Coding Activity
 
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://github.com/useraleks"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=useraleks&theme=midnight-purple&layout=compact" width=40% alt="useraleks's Coding Activity"></a>
-
-
